@@ -1,0 +1,21 @@
+# Mutual Fund FAQ Assistant (Facts-Only RAG)
+# Phases 0-3 use: requests, beautifulsoup4, lxml, pyyaml, pydantic, python-dotenv
+# Later phases add: groq, sentence-transformers, chromadb, streamlit, pytest
+
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pyyaml>=6.0
+pydantic>=2.6
+python-dotenv>=1.0
+
+# --- used from Phase 5 onward ---
+sentence-transformers>=2.7
+chromadb>=0.5
+groq>=0.11
+
+# --- UI (Phase 10) ---
+streamlit>=1.33
+
+# --- tests (Phase 11) ---
+pytest>=8.0

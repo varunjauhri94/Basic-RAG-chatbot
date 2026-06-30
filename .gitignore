@@ -1,0 +1,13 @@
+# secrets
+.env
+
+# data artifacts (raw scrapes, cleaned output, vector store)
+data/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
