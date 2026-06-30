@@ -149,7 +149,7 @@ if ask_clicked and query.strip():
         if answer.citation_url:
             st.markdown(f"🔗 **Source:** [{answer.citation_url}]({answer.citation_url})")
         if footer:
-            st.caption(footer)
+            st.caption(f"🕒 **Last updated timestamp:** {footer.replace('Last updated from sources: ', '')}")
 
     elif answer.answer_type == "comparison":
         period_label = answer.comparison_period or "trailing"
@@ -183,7 +183,7 @@ if ask_clicked and query.strip():
             "This is factual data from official Economic Times factsheets — **not investment advice**."
         )
         if answer.as_of_date:
-            st.caption(f"Last updated from sources: {answer.as_of_date}")
+            st.caption(f"🕒 **Last updated timestamp:** {answer.as_of_date}")
 
     else:
         st.info(f"ℹ️ {answer.text}")

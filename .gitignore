@@ -2,8 +2,8 @@
 .env
 
 # data artifacts (raw scrapes, cleaned output, vector store)
-data/
-
+data/raw/
+data/chroma/*.sqlite3-journal
 # python
 __pycache__/
 *.pyc
