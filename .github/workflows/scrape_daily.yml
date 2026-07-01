@@ -9,6 +9,8 @@ on:
 jobs:
   ingest:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
       - name: Checkout repository
@@ -40,4 +42,4 @@ jobs:
           git add -f data/
           
           # Only commit if there are changes
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Daily vector DB update" && git push)
+          git diff --staged --quiet || (git commit -m "chore: Daily vector DB update" && git push)

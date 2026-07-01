@@ -93,3 +93,11 @@ Clean, minimal, and user-friendly interface
 
 Summary
 The goal is to build a trustworthy, transparent, and compliant mutual fund FAQ assistant that prioritizes accuracy over intelligence. The system should ensure that users receive only verified, source-backed financial information, without any advisory bias or speculative content.
+
+
+
+https://economictimes.indiatimes.com/sbi-elss-tax-saver-fund-direct-plan/mffactsheet/schemeid-16244.cms
+https://economictimes.indiatimes.com/icici-prudential-bharat-22-fof-direct-plan/mffactsheet/schemeid-36693.cms
+https://economictimes.indiatimes.com/hsbc-midcap-fund-direct-plan/mffactsheet/schemeid-16280.cms
+https://economictimes.indiatimes.com/groww-liquid-fund-direct-plan/mffactsheet/schemeid-15583.cms
+https://economictimes.indiatimes.com/bank-of-india-flexi-cap-fund-direct-plan/mffactsheet/schemeid-41018.cms
