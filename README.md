@@ -3,6 +3,9 @@
 A facts-only FAQ assistant for mutual fund schemes, sourced exclusively from official Economic Times
 factsheet pages. **Facts-only. No investment advice.**
 
+## Live Demo
+👉 **[https://et-markets-chatbot.streamlit.app/](https://et-markets-chatbot.streamlit.app/)**
+
 See [`Docs/`](Docs/) for the full design: ProblemStatement, Architecture, implementation_plan,
 edge_cases, eval.
 
