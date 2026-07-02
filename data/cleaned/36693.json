@@ -4,17 +4,17 @@
   "amc": "ICICI Prudential MF",
   "category": "Fund of Funds",
   "source_url": "https://economictimes.indiatimes.com/icici-prudential-bharat-22-fof-direct-plan/mffactsheet/schemeid-36693.cms",
-  "as_of_date": "2026-07-01",
+  "as_of_date": "2026-07-02",
   "fund_details": {
     "Fund House": "ICICI Prudential Mutual Fund",
     "Launch Date": "Jun 29, 2018",
     "Riskometer": "Very High",
     "Type": "Open-ended",
-    "Risk Grade": "Average",
-    "Return Grade": "High"
+    "Risk Grade": "-",
+    "Return Grade": "-"
   },
   "key_facts": {
-    "Current NAV": "The Current Net Asset Value of the ICICI Prudential BHARAT 22 FOF - Direct Plan as of Jun 30, 2026 is Rs 34.65 for Growth option of its Direct plan.",
+    "Current NAV": "The Current Net Asset Value of the ICICI Prudential BHARAT 22 FOF - Direct Plan as of Jul 01, 2026 is Rs 34.77 for Growth option of its Direct plan.",
     "Fund Size": "The ICICI Prudential BHARAT 22 FOF - Direct Plan currently holds Assets under Management worth of Rs 2882.9 crore as on May 31, 2026.",
     "Expense ratio": "The expense ratio of the fund is 0.12% for Direct plan as on Jun 21, 2026.",
     "Exit Load": "The given fund doesn't attract any Exit Load.",
@@ -26,7 +26,7 @@
   },
   "performance": {
     "Trailing/Category Returns": "Its trailing returns over different time periods are: 8.73% (1yr), 21.85% (3yr), 24.11% (5yr) and 16.86% (since launch). Whereas, Category returns for the same time duration are: -0.85% (1yr), 12.34% (3yr) and 10.82% (5yr).",
-    "Return Since Launch": "16.79%"
+    "Return Since Launch": "16.83%"
   },
   "objective": "Investment Objective - The scheme seeks to generate returns by investing in units of BHARAT 22 ETF.",
   "extra_notes": []
