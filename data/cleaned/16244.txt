@@ -2,7 +2,7 @@
 SBI ELSS Tax Saver Fund  (Direct Plan - Growth)
 AMC: SBI MF | Category: ELSS
 Source: https://economictimes.indiatimes.com/sbi-elss-tax-saver-fund-direct-plan/mffactsheet/schemeid-16244.cms
-Last updated from sources: 2026-07-02
+Last updated from sources: 2026-07-03
 ======================================================================
 
 [Fund Details]
@@ -19,7 +19,7 @@ Expense Ratio: 1.19%
 Fund Size: Rs. 30,955.01 Cr
 
 [Key Facts]
-Current NAV: The Current Net Asset Value of the SBI ELSS Tax Saver Fund - Direct Plan as of Jul 01, 2026 is Rs 474.19 for Growth option of its Direct plan.
+Current NAV: The Current Net Asset Value of the SBI ELSS Tax Saver Fund - Direct Plan as of Jul 02, 2026 is Rs 476.79 for Growth option of its Direct plan.
 Fund Size: The SBI ELSS Tax Saver Fund - Direct Plan currently holds Assets under Management worth of Rs 30955.01 crore as on May 31, 2026.
 Expense ratio: The expense ratio of the fund is 1.11% for Direct plan as on Jun 25, 2026.
 Exit Load: The given fund doesn't attract any Exit Load.
@@ -33,4 +33,4 @@ Investment Objective - The scheme seeks capital appreciation through investments
 
 [Performance (reference only - not for advice)]
 Trailing/Category Returns: Its trailing returns over different time periods are: 0.08% (1yr), 19.45% (3yr), 17.36% (5yr) and 15.52% (since launch). Whereas, Category returns for the same time duration are: -1.0% (1yr), 13.41% (3yr) and 12.06% (5yr).
-Return Since Launch: 15.49%
+Return Since Launch: 15.53%
