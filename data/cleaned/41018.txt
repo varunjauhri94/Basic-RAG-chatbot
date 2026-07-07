@@ -2,7 +2,7 @@
 Bank of India Flexi Cap Fund  (Direct Plan - Growth)
 AMC: Bank of India MF | Category: Flexi Cap
 Source: https://economictimes.indiatimes.com/bank-of-india-flexi-cap-fund-direct-plan/mffactsheet/schemeid-41018.cms
-Last updated from sources: 2026-07-06
+Last updated from sources: 2026-07-07
 ======================================================================
 
 [Fund Details]
@@ -19,7 +19,7 @@ Expense Ratio: 0.87%
 Fund Size: Rs. 2,459.86 Cr
 
 [Key Facts]
-Current NAV: The Current Net Asset Value of the Bank of India Flexi Cap Fund - Direct Plan as of Jul 03, 2026 is Rs 41.13 for Growth option of its Direct plan.
+Current NAV: The Current Net Asset Value of the Bank of India Flexi Cap Fund - Direct Plan as of Jul 06, 2026 is Rs 41.28 for Growth option of its Direct plan.
 Fund Size: The Bank of India Flexi Cap Fund - Direct Plan currently holds Assets under Management worth of Rs 2459.86 crore as on May 31, 2026.
 Expense ratio: The expense ratio of the fund is 0.87% for Direct plan as on Jul 03, 2026.
 Exit Load: Bank of India Flexi Cap Fund - Direct Plan shall attract an Exit Load, "Exit load of 1%, if redeemed within 3 months."
@@ -28,6 +28,9 @@ Minimum Investment: Minimum investment required is Rs 5000 and minimum additiona
 [Objective]
 Investment Objective - The scheme seeks to generate long term capital appreciation by investing predominantly in equity and equity-related securities across various market capitalisation.
 
+[Notes]
+- 0: Government expands incentives for semiconductor ecosystem beyond fabrication EPS pension: How much monthly payout can you get after 10-25 years of service under EPS 2026? $11 billion worth of IPO shares set for lock-in expiry over next 3 months.
+
 [Performance (reference only - not for advice)]
 Trailing/Category Returns: Its trailing returns over different time periods are: 9.39% (1yr), 22.25% (3yr), 17.98% (5yr) and 26.51% (since launch). Whereas, Category returns for the same time duration are: 0.8% (1yr), 13.14% (3yr) and 12.13% (5yr).
-Return Since Launch: 26.51%
+Return Since Launch: 26.55%
