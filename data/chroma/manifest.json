@@ -1,7 +1,7 @@
 {
-  "build_date": "2026-07-07",
+  "build_date": "2026-07-08",
   "embedding_model": "BAAI/bge-small-en-v1.5",
-  "total_chunks": 39,
+  "total_chunks": 35,
   "chunks_per_scheme": {
     "16244": 8,
     "36693": 7,

@@ -4,7 +4,7 @@
   "amc": "SBI MF",
   "category": "ELSS",
   "source_url": "https://economictimes.indiatimes.com/sbi-elss-tax-saver-fund-direct-plan/mffactsheet/schemeid-16244.cms",
-  "as_of_date": "2026-07-07",
+  "as_of_date": "2026-07-08",
   "fund_details": {
     "Fund House": "SBI Mutual Fund",
     "Launch Date": "Jan 01, 2013",
@@ -15,7 +15,7 @@
     "Return Grade": "High"
   },
   "key_facts": {
-    "Current NAV": "The Current Net Asset Value of the SBI ELSS Tax Saver Fund - Direct Plan as of Jul 06, 2026 is Rs 479.50 for Growth option of its Direct plan.",
+    "Current NAV": "The Current Net Asset Value of the SBI ELSS Tax Saver Fund - Direct Plan as of Jul 07, 2026 is Rs 478.40 for Growth option of its Direct plan.",
     "Fund Size": "The SBI ELSS Tax Saver Fund - Direct Plan currently holds Assets under Management worth of Rs 30955.01 crore as on May 31, 2026.",
     "Expense ratio": "The expense ratio of the fund is 1.19% for Direct plan as on Jul 03, 2026.",
     "Exit Load": "The given fund doesn't attract any Exit Load.",
@@ -27,11 +27,10 @@
   },
   "performance": {
     "Trailing/Category Returns": "Its trailing returns over different time periods are: -0.38% (1yr), 18.38% (3yr), 17.48% (5yr) and 15.53% (since launch). Whereas, Category returns for the same time duration are: -1.01% (1yr), 12.65% (3yr) and 12.18% (5yr).",
-    "Return Since Launch": "15.57%"
+    "Return Since Launch": "15.54%"
   },
   "objective": "Investment Objective - The scheme seeks capital appreciation through investments in equities, cumulative convertible preference shares and fully convertible debentures and bonds. The scheme was converted into an open-ended plan in November 1999.",
   "extra_notes": [
-    "Short-term Capital Gain Tax - STCG is not applicable on ELSS schemes since these have a lock-in period of 3 years.",
-    "0: Government expands incentives for semiconductor ecosystem beyond fabrication EPS pension: How much monthly payout can you get after 10-25 years of service under EPS 2026? $11 billion worth of IPO shares set for lock-in expiry over next 3 months."
+    "Short-term Capital Gain Tax - STCG is not applicable on ELSS schemes since these have a lock-in period of 3 years."
   ]
 }
