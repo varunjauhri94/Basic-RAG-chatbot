@@ -21,11 +21,10 @@ ROOT = Path(__file__).resolve().parent.parent
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
-# Force-reload app modules so Streamlit picks up code changes without a server restart.
-# Without this, Streamlit caches the first import of each module for the session lifetime.
-for mod_name in list(sys.modules.keys()):
-    if mod_name.startswith("app.") or mod_name.startswith("ingest."):
-        importlib.reload(sys.modules[mod_name])
+# (Commented out for production to preserve the embedding model LRU cache)
+# for mod_name in list(sys.modules.keys()):
+#     if mod_name.startswith("app.") or mod_name.startswith("ingest."):
+#         importlib.reload(sys.modules[mod_name])
 
 from app.orchestrator import ask  # noqa: E402
 
