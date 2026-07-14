@@ -31,12 +31,18 @@ def _chroma_path() -> str:
     return str(DATA_DIR.parent / rel)
 
 
-def get_collection() -> chromadb.Collection:
-    """Return (or create) the persistent ChromaDB collection."""
-    client = chromadb.PersistentClient(
+from functools import lru_cache
+
+@lru_cache(maxsize=1)
+def _get_persistent_client() -> chromadb.PersistentClient:
+    return chromadb.PersistentClient(
         path=_chroma_path(),
         settings=Settings(anonymized_telemetry=False),
     )
+
+def get_collection() -> chromadb.Collection:
+    """Return (or create) the persistent ChromaDB collection."""
+    client = _get_persistent_client()
     return client.get_or_create_collection(
         name=_get_collection_name(),
         metadata={"hnsw:space": "cosine"},

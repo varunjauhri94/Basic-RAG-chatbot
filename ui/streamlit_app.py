@@ -12,7 +12,12 @@ from __future__ import annotations
 
 import importlib
 import sys
+import os
 from pathlib import Path
+
+# Prevent PyTorch and HuggingFace from deadlocking in Streamlit's multi-threaded environment
+os.environ["OMP_NUM_THREADS"] = "1"
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 import streamlit as st
 
