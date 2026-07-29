@@ -2,7 +2,7 @@
 HSBC Midcap Fund  (Direct Plan - Growth)
 AMC: HSBC MF | Category: Mid Cap
 Source: https://economictimes.indiatimes.com/hsbc-midcap-fund-direct-plan/mffactsheet/schemeid-16280.cms
-Last updated from sources: 2026-07-28
+Last updated from sources: 2026-07-29
 ======================================================================
 
 [Fund Details]
@@ -19,7 +19,7 @@ Expense Ratio: 1.23%
 Fund Size: Rs. 15,351.91 Cr
 
 [Key Facts]
-Current NAV: The Current Net Asset Value of the HSBC Midcap Fund - Direct Plan as of Jul 27, 2026 is Rs 517.91 for Growth option of its Direct plan.
+Current NAV: The Current Net Asset Value of the HSBC Midcap Fund - Direct Plan as of Jul 28, 2026 is Rs 514.27 for Growth option of its Direct plan.
 Fund Size: The HSBC Midcap Fund - Direct Plan currently holds Assets under Management worth of Rs 15351.91 crore as on Jun 30, 2026.
 Expense ratio: The expense ratio of the fund is 1.23% for Direct plan as on Jul 24, 2026.
 Exit Load: HSBC Midcap Fund - Direct Plan shall attract an Exit Load, "Exit load for units in excess of 10% of the investment, 1% will be charged for redemption within 1 year."
@@ -30,4 +30,4 @@ Investment Objective - The scheme seeks to generate long-term capital growth fro
 
 [Performance (reference only - not for advice)]
 Trailing/Category Returns: Its trailing returns over different time periods are: 16.05% (1yr), 25.24% (3yr), 18.98% (5yr) and 20.06% (since launch). Whereas, Category returns for the same time duration are: 4.47% (1yr), 17.98% (3yr) and 15.74% (5yr).
-Return Since Launch: 20.14%
+Return Since Launch: 20.08%
