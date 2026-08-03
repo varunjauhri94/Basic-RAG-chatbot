@@ -2,7 +2,7 @@
 HSBC Midcap Fund  (Direct Plan - Growth)
 AMC: HSBC MF | Category: Mid Cap
 Source: https://economictimes.indiatimes.com/hsbc-midcap-fund-direct-plan/mffactsheet/schemeid-16280.cms
-Last updated from sources: 2026-08-02
+Last updated from sources: 2026-08-03
 ======================================================================
 
 [Fund Details]
@@ -15,7 +15,7 @@ Risk Grade: Average
 Return Grade: Above Average
 
 [Summary]
-Expense Ratio: 1.22%
+Expense Ratio: 1.20%
 Fund Size: Rs. 15,351.91 Cr
 
 [Key Facts]
