@@ -2,7 +2,7 @@
 Bank of India Flexi Cap Fund  (Direct Plan - Growth)
 AMC: Bank of India MF | Category: Flexi Cap
 Source: https://economictimes.indiatimes.com/bank-of-india-flexi-cap-fund-direct-plan/mffactsheet/schemeid-41018.cms
-Last updated from sources: 2026-08-13
+Last updated from sources: 2026-08-14
 ======================================================================
 
 [Fund Details]
@@ -19,7 +19,7 @@ Expense Ratio: 0.86%
 Fund Size: Rs. 2,786.40 Cr
 
 [Key Facts]
-Current NAV: The Current Net Asset Value of the Bank of India Flexi Cap Fund - Direct Plan as of Aug 12, 2026 is Rs 42.68 for Growth option of its Direct plan.
+Current NAV: The Current Net Asset Value of the Bank of India Flexi Cap Fund - Direct Plan as of Aug 13, 2026 is Rs 42.63 for Growth option of its Direct plan.
 Fund Size: The Bank of India Flexi Cap Fund - Direct Plan currently holds Assets under Management worth of Rs 2615.05 crore as on Jun 30, 2026.
 Expense ratio: The expense ratio of the fund is 0.86% for Direct plan as on Aug 07, 2026.
 Exit Load: Bank of India Flexi Cap Fund - Direct Plan shall attract an Exit Load, "Exit Load for units in excess of 10% of the investment,1% will be charged for redemption within 3 months."
@@ -30,4 +30,4 @@ Investment Objective - The scheme seeks to generate long term capital appreciati
 
 [Performance (reference only - not for advice)]
 Trailing/Category Returns: Its trailing returns over different time periods are: 16.38% (1yr), 21.72% (3yr), 17.79% (5yr) and 26.72% (since launch). Whereas, Category returns for the same time duration are: 6.13% (1yr), 13.01% (3yr) and 11.85% (5yr).
-Return Since Launch: 26.74%
+Return Since Launch: 26.7%
