@@ -2,7 +2,7 @@
 SBI ELSS Tax Saver Fund  (Direct Plan - Growth)
 AMC: SBI MF | Category: ELSS
 Source: https://economictimes.indiatimes.com/sbi-elss-tax-saver-fund-direct-plan/mffactsheet/schemeid-16244.cms
-Last updated from sources: 2026-09-17
+Last updated from sources: 2026-09-18
 ======================================================================
 
 [Fund Details]
@@ -15,7 +15,7 @@ Risk Grade: Below Average
 Return Grade: Above Average
 
 [Summary]
-Expense Ratio: 1.27%
+Expense Ratio: 1.28%
 Fund Size: Rs. 32,300.09 Cr
 
 [Key Facts]
